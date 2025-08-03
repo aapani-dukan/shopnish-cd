@@ -2,7 +2,7 @@
 export const firebaseConfig = {
   apiKey: "AIzaSyChdYrxfxkfj6m04WT0nOBl5xCP62udcPU",
   authDomain: "aapani-dukan.firebaseapp.com",
-  databaseURL: "https://aapani-dukan.firebaseio.com",
+  databaseURL:psql 'postgresql://neondb_owner:npg_98LZoDWjpxkK@ep-curly-hall-a854iinu-pooler.eastus2.azure.neon.tech/shopnish-cd?sslmode=require&channel_binding=require'
   projectId: "aapani-dukan",
   storageBucket: "aapani-dukan.firebasestorage.app",
   messagingSenderId: "352463214204",
